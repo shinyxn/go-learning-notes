@@ -1,0 +1,7 @@
+go 1.21.6
+
+use (
+	"./2. Golang Modules/go-say-hello"
+	"./2. Golang Modules/go-using-modules"
+	"./3. Golang Unit Test"
+)
